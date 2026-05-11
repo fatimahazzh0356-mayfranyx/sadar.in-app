@@ -1,17 +1,40 @@
-# sadarin_apk
+# sadari.n_apk
 
-A new Flutter project.
+# Sadar.in
 
-## Getting Started
+Sadar.in adalah aplikasi edukasi interaktif berbasis Flutter yang membantu pengguna memahami kekerasan seksual non-verbal, menjaga ruang aman, dan mengenali batas personal.
 
-This project is a starting point for a Flutter application.
+## Deskripsi Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini dibuat berdasarkan pengalaman dan situasi yang sering terjadi di masyarakat, sehingga diperlukan langkah preventif melalui media digital interaktif untuk memberikan edukasi mengenai bentuk-bentuk pelecehan non-verbal seperti tatapan merendahkan, gestur intimidatif, dan eksploitasi visual. Sadar.in juga menyediakan kuis pemahaman serta akses cepat ke layanan hotline bantuan resmi agar pengguna dapat lebih sadar, memahami batas personal, dan mengetahui langkah yang harus dilakukan ketika menghadapi situasi tidak aman.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur Utama
+
+- Halaman Home
+- Modul edukasi interaktif
+- Ilustrasi visual pada materi
+- Detail materi berbasis slide
+- Kuis pemahaman
+- Sistem skor dan high score
+- Halaman profil pengguna
+- Hotline bantuan resmi
+- Navigasi bawah yang responsif
+
+## Teknologi yang Digunakan
+
+- Flutter
+- Dart
+- Shared Preferences
+- URL Launcher
+
+## Tujuan Aplikasi
+
+Meningkatkan kesadaran pengguna mengenai pelecehan non-verbal serta membantu pengguna memahami cara menjaga diri, mengenali situasi tidak aman, dan mencari bantuan ketika diperlukan.
+
+## Developer
+
+Nama: Fatimah Az-Zahra, 
+ NIM: 2490343046,  
+ Kelas: RJ24A,  
+ Program Studi: Multimedia
